@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //夏見惨状ああああ
+        //中村参上
     }
 }
