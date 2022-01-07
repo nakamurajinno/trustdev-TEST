@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //夏見参上ああああ
+        //夏見参上あああああ
         //中村参上
     }
 }
